@@ -1,0 +1,11 @@
+mat-card {
+    margin: 2em auto;
+}
+
+mat-card-actions {
+    justify-content: center;
+}
+
+.full-width {
+    width: 100%;
+}
